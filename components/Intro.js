@@ -9,7 +9,7 @@ function Greeting() {
       </div>
       <div className='text-[14px] leading-[25px]'>
         Here's how the crypto market looks today. Here you have data for the top
-        50 coins/tokens.
+        25 coins/tokens.
       </div>
     </section>
   );
