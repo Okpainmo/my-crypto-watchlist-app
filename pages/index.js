@@ -5,7 +5,7 @@ import Footer from '@/components/Footer';
 
 function WatchPage({ coinsData }) {
   return (
-    <main className='px-3 sm:px-8 w-full md:w-10/12 mx-auto md:mt-8'>
+    <main className='px-3 sm:px-8 w-full md:w-10/12 mx-auto md:mt-8 montserrat'>
       <Intro />
       <section className='coins-list-section pt-4 sm:pt-8 mt-2'>
         <div className='table-header list-categories flex pb-3 border-b'>

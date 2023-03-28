@@ -30,14 +30,6 @@ google font-customization
 */
 
 @layer utilities {
-  .poppins {
-    font-family: 'Poppins', sans-serif;
-  }
-
-  .nunito-sans {
-    font-family: 'Nunito Sans', sans-serif;
-  }
-
   .montserrat {
     font-family: 'Montserrat', sans-serif;
   }
