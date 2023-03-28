@@ -1,3 +1,7 @@
+# my-crypto-watchlist-app
+
+A technical article tutorial project showing how to build a crypto watchlist app with NextJs(SSR), tailwindcss, and more.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
